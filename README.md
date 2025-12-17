@@ -1,8 +1,8 @@
 
 ## Мои навыки:
-<img src= <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d1569125-2d6f-47c7-9536-ffb70cbdf110" />
-" width="10%">
-<!--
+<img src=" width="10%">
+<!--<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e25181d-a18f-43e8-aef1-a1693daef787" />
+
 **Delevoper228/Delevoper228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
